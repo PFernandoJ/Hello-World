@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         String Scanner = "";
-        System.out.println("Nom et prénom");
+        System.out.println("Indiquer votre Nom et prénom");
         java.util.Scanner sc;
         sc = new Scanner(System.in);
         String i = sc.nextLine();
